@@ -1,56 +1,26 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Maker @links.dev & Software Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Kagan Demirhindi",
+  "description": "Software Engineer | Full Stack Developer",
+  "image_url": "https://avatars.githubusercontent.com/u/20323479?v=4",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/kagan-demirhindi/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/kadenn",
       "icon": "github"
     },
     {
-      "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
-      "icon": "gitlab"
-    },
-    {
-      "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
-      "icon": "twitter"
-    },
-    {
-      "title": "Buy me a coffee",
-      "url": "http://bit.ly/3G4193Q",
-      "icon": "mug"
-    },
-    {
-      "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
-      "icon": "instagram"
-    },
-    {
-      "title": "Blog",
-      "url": "https://blog.links.dev",
-      "icon": "medium"
-    },
-    {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
+      "title": "Reaction Game",
+      "url": "https://webgames.win/",
+      "icon": "chicken"
     },
     {
       "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
+      "url": "https://open.spotify.com/user/11172447908?si=7089aa13f8654123",
       "icon": "spotify"
     },
     {
