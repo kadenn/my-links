@@ -1,14 +1,6 @@
 # my-links
 
-## Do not open a PR or an issue! Instead fork this or create your own `my-links` repo. 
-This is my personal `my-links` repo. You need your own.
-
-## Welcome to `my-links`
-a repo for individuals to customize their page on links.dev
-
 ### To use this repo, follow these steps
-
-- Fork this repo to your own GitHub account.
 
 - In the root directory of the repo, update the "page.json". This file should contain the data for your link in bio
   page, such as the links you want to include, the titles for each link, and any other relevant information.
