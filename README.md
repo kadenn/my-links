@@ -1,7 +1,5 @@
 # my-links
 
-### To use this repo, follow these steps
-
 - In the root directory of the repo, update the "page.json". This file should contain the data for your link in bio
   page, such as the links you want to include, the titles for each link, and any other relevant information.
 
