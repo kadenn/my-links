@@ -7,7 +7,7 @@
   your link in bio page. You can use this file to add your own styles, such as fonts, colors, and layout.
 
 - Once you have created/updated your page.json and custom.css files, you can view your link in bio page by visiting the
-  URL for your forked repo. For example, if your username is "fatih", the URL for your link in bio page would
+  URL for your forked repo. For example, if your username is "kagan", the URL for your link in bio page would
   be https://links.dev/kagan
 
 - If you want to invalidate the cache after you update your page, hit your page with refresh parameter, like
